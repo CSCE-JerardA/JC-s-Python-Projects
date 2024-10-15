@@ -1,3 +1,22 @@
+#*******************************************************************
+# Course:      CSCI 201
+#Assignment: Classwork 04-26-2024
+# Programmer: Jerard Austin
+# Instructor: Dr. Mirek Mystkowski
+# Date: April 26th 2024
+# Synopsis: This program displays a window from tkinter that displays a game of hangman.
+# Test case 1:
+# input: 
+# expected output: 
+# actual output: 
+# Test case 2:
+# input:
+# expected output:
+# actual output:
+# Test case 3:
+# …………….
+#*******************************************************************
+
 import tkinter as tk
 import random
 from string import ascii_uppercase
