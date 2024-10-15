@@ -1,5 +1,22 @@
-import tkinter as tk
-import random
+#*******************************************************************
+# Course:      CSCI 201
+#Assignment: Classwork 05-3-2024
+# Programmer: Jerard Austin
+# Instructor: Dr. Mirek Mystkowski
+# Date: March 24th 2024
+# Synopsis: This program displays a window from tkinter that displays a game of rock, paper, scissors. Then it determines a winner
+# Test case 1:
+# input: S
+# expected output: 1 S
+# actual output: -1 P
+# Test case 2:
+# input: P
+# expected output: Tie!
+# actual output: 1 R
+# Test case 3:
+# …………….
+#*******************************************************************
+
 
 
 def determine_winner(comp:str, user:str) -> int or str:
