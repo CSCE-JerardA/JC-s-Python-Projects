@@ -1,3 +1,23 @@
+#*******************************************************************
+# Course:      CSCI 201
+#Assignment: Classwork 03-24-2024
+# Programmer: Jerard Austin
+# Instructor: Dr. Mirek Mystkowski
+# Date: March 24th 2024
+# Synopsis: This program displays a window from tkinter that displays a calculator
+# Test case 1:
+# input: 3 + 6 =
+# expected output: 9
+# actual output: 9
+# Test case 2:
+# input:
+# expected output:
+# actual output:
+# Test case 3:
+# …………….
+#*******************************************************************
+
+
 import tkinter as tk
 import random
 from string import ascii_uppercase
