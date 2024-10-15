@@ -1,6 +1,6 @@
 #*******************************************************************
 # Course:      CSCI 201
-#Assignment: Classwork 04-3-2024
+#Assignment: Classwork 03-24-2024
 # Programmer: Jerard Austin
 # Instructor: Dr. Mirek Mystkowski
 # Date: March 24th 2024
