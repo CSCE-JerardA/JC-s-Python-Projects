@@ -1,9 +1,9 @@
 #*******************************************************************
 # Course:      CSCI 201
-#Assignment: Classwork 03-24-2024
+#Assignment: Classwork 04-26-2024
 # Programmer: Jerard Austin
 # Instructor: Dr. Mirek Mystkowski
-# Date: March 24th 2024
+# Date: April 24th 2024
 # Synopsis: This program displays a window from tkinter that displays a calculator
 # Test case 1:
 # input: 3 + 6 =
