@@ -3,7 +3,7 @@
 #Assignment: Classwork 05-3-2024
 # Programmer: Jerard Austin
 # Instructor: Dr. Mirek Mystkowski
-# Date: March 24th 2024
+# Date: May 3rd 2024
 # Synopsis: This program displays a window from tkinter that displays a game of rock, paper, scissors. Then it determines a winner
 # Test case 1:
 # input: S
